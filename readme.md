@@ -1,0 +1,1 @@
+# proyek tentang membuka dokumen dengan python
